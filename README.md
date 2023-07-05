@@ -1,7 +1,7 @@
 # TgPlus
 
 [![Xposed](https://img.shields.io/badge/-Xposed-green?style=flat&logo=Android&logoColor=white)](#)
-[![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.easy.tgplus/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.easy.tgplus/releases)
+[![GitHub all releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.easy.tgPlus/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/com.easy.tgPlus/releases)
 
 ## 模块简介
 这是一个Xposed模块
